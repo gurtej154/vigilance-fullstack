@@ -151,7 +151,7 @@ Don't forget to give the project a star! Thanks again!
 ## URL link
 
 
-Project Link: [https://github.com/HadisParsa/vigilance-fullstack](https://github.com/HadisParsa/vigilance-fullstack)
+Project Link: [Self-care Blog](https://gurtej154.github.io/vigilance-fullstack/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
