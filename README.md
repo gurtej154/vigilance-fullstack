@@ -33,7 +33,7 @@
     <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/page-facing-up_1f4c4.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Vigilance Blog Page</h3>
+<h3 align="center">Self-care Blog Page</h3>
 
   <p align="center">
     A page one can create an account, log in, and post a simple blog style text page.
@@ -41,7 +41,7 @@
     <a href="https://github.com/HadisParsa/vigilance-fullstack"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/HadisParsa/vigilance-fullstack">View Demo</a>
+    <a href="https://vigiliantes-fullstack.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/HadisParsa/vigilance-fullstack/issues">Report Bug</a>
     ·
@@ -161,7 +161,7 @@ Project Link: [https://github.com/HadisParsa/vigilance-fullstack](https://github
 ## Acknowledgments
 
 * [Jake](https://github.com/jakecolledge97)
-* [Gurtej](https://github.com/gurtej154)
+* [Hadis](https://github.com/HadisParsa)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
